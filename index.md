@@ -1,3 +1,4 @@
+## Bio
 I am a Ph.D. student in the
 [Department of Computational and Applied Mathematics](https://caamweb.rice.edu/)  (CAAM) at 
 [Rice University](https://www.rice.edu/) in Houston, TX. My 
@@ -45,7 +46,7 @@ Here is my [CV](ad_cv.pdf).
 - [**Global Young Scientists Summit 2022 Attendee**](https://www.nrf.gov.sg/gyss/home), Oct. 2021
 - [**National Defense Science and Engineering Graduate Fellowship**](https://ndseg.org/), Mar.\ 2021,
   - Sponsoring Agency: [Air Force Research Laboratory](https://www.afrl.af.mil/).
-- **[National Science Foundation Graduate Research Fellowship Program](https://www.nsfgrfp.org/) Honorable Mention**, Mar. 2021.
+- [**National Science Foundation Graduate Research Fellowship Program Honorable Mention**](https://www.nsfgrfp.org/) , Mar. 2021.
 - [**Ken Kennedy Institute 2020/21 BP Graduate Fellowship**](https://kenkennedy.rice.edu/fellowships/bp), Rice University, Dec. 2020.
 - [**Ken Kennedy Institute Computational Science and Engineering Fellowship**](https://kenkennedy.rice.edu/funding/recruiting-fellowships), Rice University, May 2019.
 - **Departmental Honors**, [Department of Mathematics, University of Maryland, College Park](https://www-math.umd.edu/), May 2019.
