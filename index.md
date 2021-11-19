@@ -1,3 +1,12 @@
+I am a Ph.D. student in the
+[Department of Computational and Applied Mathematics](https://caamweb.rice.edu/)  (CAAM) at 
+[Rice University](https://www.rice.edu/) in Houston, TX. My 
+advisor is Prof. [Matthias Heinkenschloss](https://www.caam.rice.edu/~heinken/)
+and my research focuses on data-driven model reduction for nonlinear dynamical systems. 
+I am a [National Defense Science and Engineering Graduate (NDSEG) Fellow](https://ndseg.org/)
+sponsored by the [Air Force Research Laboratory (AFRL)](https://www.afrl.af.mil/). 
+Here is my [CV](ad_cv.pdf).
+
 ### Contact Info 
 - **Office**: Duncan Hall 2108, Rice University
 - **Email**: and5@rice.edu
