@@ -1,4 +1,3 @@
-# Alejandro N. Diaz
 <img align="left" width="240" height="240" src="headshot_cropped.jpg" style="margin:0px 15px">
 
 I am a Ph.D. student in the
