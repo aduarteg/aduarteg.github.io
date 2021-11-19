@@ -1,5 +1,5 @@
 # Alejandro N. Diaz
-<img src="headshot_cropped.png" alt="headshot" width="200"/>
+<img align="left" width="240" height="240" src="headshot_cropped.jpg" style="margin:0px 15px">
 
 I am a Ph.D. student in the
 [Department of Computational and Applied Mathematics](https://caamweb.rice.edu/)  (CAAM) at 
