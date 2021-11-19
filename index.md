@@ -70,8 +70,8 @@ Model Order Reduction for Large-Scale Problems Minisymposium, SIAM Conference on
   - CAAM 554, Spring 2021
 
 - **Teaching Assistant**, Department of Mathematics, University of Maryland, College Park
-  - Teaching assistant, MATH 141, Spring 2019
-  - Teaching assistant, MATH 140, Fall 2018
+  - MATH 141, Spring 2019
+  - MATH 140, Fall 2018
 
 ## Service
 - **SIAM Student Chapter**, Rice University
