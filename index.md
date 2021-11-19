@@ -11,6 +11,7 @@ Here is my [CV](ad_cv.pdf).
 ### Contact Info 
 - **Office**: Duncan Hall 2108, Rice University
 - **Email**: and5@rice.edu
+- [**LinkedIn**](www.linkedin.com/in/alejandro-diaz-855152226)
 
 ## Education 
 - **Ph.D.**, Computational and Applied Mathematics, Rice University, May 2024 (expected)
