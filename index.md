@@ -45,7 +45,7 @@ Here is my [CV](ad_cv.pdf).
 
 ## Honors and Awards
 - [**Global Young Scientists Summit 2022 Attendee**](https://www.nrf.gov.sg/gyss/home), Oct. 2021
-- [**National Defense Science and Engineering Graduate Fellowship**](https://ndseg.org/), Mar.\ 2021,
+- [**National Defense Science and Engineering Graduate Fellowship**](https://ndseg.org/), Mar. 2021,
   - Sponsoring Agency: [Air Force Research Laboratory](https://www.afrl.af.mil/).
 - [**National Science Foundation Graduate Research Fellowship Program Honorable Mention**](https://www.nsfgrfp.org/) , Mar. 2021.
 - [**Ken Kennedy Institute 2020/21 BP Graduate Fellowship**](https://kenkennedy.rice.edu/fellowships/bp), Rice University, Dec. 2020.
@@ -80,6 +80,6 @@ Model Order Reduction for Large-Scale Problems Minisymposium, SIAM Conference on
   - Treasurer, Aug. 2020 - Aug. 2021
 
 - **Graduate Student Mentor**, Department of Computational and Applied Mathematics, Rice University,
-Aug 2021 - Present
+Aug. 2021 - Present
 - **Graduate Student Advisory Committee**, Rice University, Member, Aug. 2020 - Present
 - **Freshmen Math Mentorship Program**, Rice University, Graduate Student Mentor, Aug. 2020 - Dec. 2020
