@@ -1,10 +1,10 @@
 # Alejandro N. Diaz
 ![]
 
-Ph.D. Student
-[Department of Computational and Applied Mathematics](https://caamweb.rice.edu/), 
-[Rice University](https://www.rice.edu/)
-Advisor: [Matthias Heinkenschloss](https://www.caam.rice.edu/~heinken/)
+Ph.D. Student  
+[Department of Computational and Applied Mathematics](https://caamweb.rice.edu/)  
+[Rice University](https://www.rice.edu/)  
+Advisor: Prof. [Matthias Heinkenschloss](https://www.caam.rice.edu/~heinken/)  
 
 ### Markdown
 
