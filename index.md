@@ -1,16 +1,47 @@
 # Alejandro N. Diaz
-![]
+![headshot](headshot_cropped.jpg)
 
-Ph.D. Student  
-[Department of Computational and Applied Mathematics](https://caamweb.rice.edu/)  
-[Rice University](https://www.rice.edu/)  
-Advisor: Prof. [Matthias Heinkenschloss](https://www.caam.rice.edu/~heinken/)  
+I am a Ph.D. student in the
+[Department of Computational and Applied Mathematics](https://caamweb.rice.edu/)  (CAAM) at 
+[Rice University](https://www.rice.edu/) in Houston, TX. My 
+advisor is Prof. [Matthias Heinkenschloss](https://www.caam.rice.edu/~heinken/)
+and my research focuses on data-driven model reduction for nonlinear dynamical systems. 
+I am a [National Defense Science and Engineering Graduate (NDSEG) Fellow](https://ndseg.org/)
+sponsored by the [Air Force Research Laboratory (AFRL)](https://www.afrl.af.mil/). 
+Here is my [CV](ad_cv.pdf).
 
-### Markdown
+### Contact Info 
+- **Office**: Duncan Hall 2108, Rice University
+- **Email**: and5@rice.edu
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Education 
+- **Ph.D.**, Computational and Applied Mathematics, Rice University, May 2024 (expected)
+- **M.A.**, Computational and Applied Mathematics, Rice University, Defended Nov. 2021
+- **B.S.**, Mathematics with Departmental Honors, Minor in Physics, University of Maryland, College Park, May 2019
 
-```markdown
+## Research Interests
+- Data-driven methods for model reduction
+- Physics-based Machine Learning
+
+## Previous Research
+- **UCLA Applied Mathematics REU**, University of California, Los Angeles
+  - Machine learning approaches for microfluidic device design
+  - Advisors: [Marcus Roper](https://www.math.ucla.edu/people/ladder/mroper), [Hangjie Ji](https://hji5.math.ncsu.edu/)
+
+- [**SMALL NSF REU**](https://math.williams.edu/small/), Williams College
+  - Tetrahedral tilings, isoperimetric surfaces
+  - Advisor: [Frank Morgan](https://math.williams.edu/morgan/)
+
+## Publications
+
+## Honors and Awards
+
+## Talks and Presentations
+
+## Teaching
+
+## Service
+
 Syntax highlighted code block
 
 # Header 1
