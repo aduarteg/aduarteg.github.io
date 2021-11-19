@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+# Alejandro N. Diaz
+![]
 
-You can use the [editor on GitHub](https://github.com/alejandro-n-diaz/alejandro-n-diaz.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Ph.D. Student
+[Department of Computational and Applied Mathematics](https://caamweb.rice.edu/), 
+[Rice University](https://www.rice.edu/)
+Advisor: [Matthias Heinkenschloss](https://www.caam.rice.edu/~heinken/)
 
 ### Markdown
 
