@@ -20,7 +20,6 @@ Here is my [CV](ad_cv.pdf).
 
 ## Research Interests
 - Data-driven methods for model reduction
-- Physics-based Machine Learning
 
 ## Previous Research
 - **UCLA Applied Mathematics REU**, University of California, Los Angeles, Summer 2018
