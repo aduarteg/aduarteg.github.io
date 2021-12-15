@@ -75,7 +75,7 @@ Model Order Reduction for Large-Scale Problems Minisymposium, SIAM Conference on
 
 ## Service
 - **SIAM Student Chapter**, Rice University
-  - GSA Representative Aug. 2021 - Aug. 2022 
+  - GSA Representative, Aug. 2021 - Aug. 2022 
   - Treasurer, Aug. 2020 - Aug. 2021
 
 - **Graduate Student Mentor**, Department of Computational and Applied Mathematics, Rice University,
