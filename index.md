@@ -22,7 +22,7 @@ Here is my [CV](ad_cv.pdf).
 - Data-driven methods for model reduction
 - Physics-informed machine learning
 
-## Research
+## Research Experience
 - [**Defense Science and Technology Internship (DSTI)**](https://wci.llnl.gov/careers/students) - Graduate Summer Student at [Lawrence Livermore National Laboratory 
 (LLNL)](https://www.llnl.gov/), Summer 2022
   - Domain-decomposition nonlinear reduced order model with shallow masked autoencoder (advisor: [Youngsoo Choi](https://people.llnl.gov/choi15))
