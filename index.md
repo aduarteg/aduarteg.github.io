@@ -15,13 +15,17 @@ Here is my [CV](ad_cv.pdf).
 
 ## Education 
 - **Ph.D.**, Computational and Applied Mathematics, Rice University, May 2024 (expected)
-- **M.A.**, Computational and Applied Mathematics, Rice University, Defended Nov. 2021
+- **M.A.**, Computational and Applied Mathematics, Rice University, May 2022
 - **B.S.**, Mathematics with Departmental Honors, Minor in Physics, [University of Maryland, College Park](https://www-math.umd.edu/), May 2019
 
 ## Research Interests
 - Data-driven methods for model reduction
+- Physics-informed machine learning
 
-## Previous Research
+## Research
+- [**Defense Science and Technology Internship (DSTI)**](https://wci.llnl.gov/careers/students) - Graduate Summer Student at [Lawrence Livermore National Laboratory](https://www.llnl.gov/), Summer 2022
+  - Domain-decomposition nonlinear reduced order model with shallow masked autoencoder (advisor: [Youngsoo Choi](https://people.llnl.gov/choi15)
+
 - **UCLA Applied Mathematics REU**, University of California, Los Angeles, Summer 2018
   - Machine learning approaches for microfluidic device design (advisors: [Marcus Roper](https://www.math.ucla.edu/people/ladder/mroper), [Hangjie Ji](https://hji5.math.ncsu.edu/))
 
