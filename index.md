@@ -1,6 +1,7 @@
 ## Bio
 I am a Ph.D. student in the
-[Department of Computational and Applied Mathematics](https://caamweb.rice.edu/)  (CAAM) at 
+[Department of Computational Applied Mathematics and Operations Research](https://cmor.rice.edu/) (CMOR)
+(formerly Computational and Applied Mathematics (CAAM)) at 
 [Rice University](https://www.rice.edu/) in Houston, TX. My 
 advisor is Prof. [Matthias Heinkenschloss](https://www.caam.rice.edu/~heinken/)
 and my research focuses on data-driven model reduction for nonlinear dynamical systems. 
@@ -23,7 +24,7 @@ Here is my [CV](ad_cv.pdf).
 - Physics-informed machine learning
 
 ## Research Experience
-- **Graduate Researcher** in the [Department of Computational Applied Mathematics and Operations Research](https://cmor.rice.edu/) at [Rice University](https://www.rice.edu/), 2020-present
+- **Graduate Researcher** - [Department of Computational Applied Mathematics and Operations Research](https://cmor.rice.edu/) at [Rice University](https://www.rice.edu/), 2020-present
   - Data-driven methods for model reduction of nonlinear dynamical systems (advisor: Prof. [Matthias Heinkenschloss](https://www.caam.rice.edu/~heinken/))
 - [**Defense Science and Technology Internship (DSTI)**](https://wci.llnl.gov/careers/students) - Graduate Summer Student at [Lawrence Livermore National Laboratory 
 (LLNL)](https://www.llnl.gov/), Summer 2022
