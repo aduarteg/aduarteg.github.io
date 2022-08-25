@@ -23,6 +23,8 @@ Here is my [CV](ad_cv.pdf).
 - Physics-informed machine learning
 
 ## Research Experience
+- **Graduate Researcher** in the [Department of Computational Applied Mathematics and Operations Research](https://cmor.rice.edu/) at [Rice University](https://www.rice.edu/), 2020-present
+  - Data-driven methods for model reduction of nonlinear dynamical systems (advisor: Prof. [Matthias Heinkenschloss](https://www.caam.rice.edu/~heinken/))
 - [**Defense Science and Technology Internship (DSTI)**](https://wci.llnl.gov/careers/students) - Graduate Summer Student at [Lawrence Livermore National Laboratory 
 (LLNL)](https://www.llnl.gov/), Summer 2022
   - Domain-decomposition nonlinear reduced order model with shallow masked autoencoder (advisor: [Youngsoo Choi](https://people.llnl.gov/choi15))
@@ -80,6 +82,7 @@ Model Order Reduction for Large-Scale Problems Minisymposium, SIAM Conference on
 
 ## Service
 - **SIAM Student Chapter**, Rice University
+  - President, Aug. 2022 - Aug. 2023
   - GSA Representative, Aug. 2021 - Aug. 2022 
   - Treasurer, Aug. 2020 - Aug. 2021
 
