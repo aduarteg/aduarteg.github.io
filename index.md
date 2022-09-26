@@ -64,6 +64,7 @@ Here is my [CV](ad_cv.pdf).
 - [**Banneker-Key Scholarship**](https://www.bannekerkey.umd.edu/), University of Maryland, College Park, May 2015.
 
 ## Talks and Presentations
+- Diaz A., _Impact of the Convergence of Series Expansions on Model Reduction of Quadratic-Bilinear Systems_. Presentation, 2022 Model Reduction and Surrogate Modeling Conference, 21 Sept. 2022, Berlin, Germany.
 - Diaz, A. _Data-Driven Model Reduction using the Loewner Framework_. Poster, 2021 Oil and Gas HPC Conference, 5 Mar. 2021, Houston, TX (virtual).
 - Diaz, A. _Data-Driven Model Reduction using the Loewner Framework_. Presentation,
 Model Order Reduction for Large-Scale Problems Minisymposium, SIAM Conference on Computational Science and Engineering, 4 Mar. 2021, Fort Worth, TX (virtual).
