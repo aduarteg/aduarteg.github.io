@@ -23,7 +23,7 @@ Here is my [CV](ad_cv.pdf).
 ## Research Interests
 - Interpolatory methods for model reduction
 - Nonlinear manifold reduced order models using sparse autoencoders
-- Integrating model reduction with domain decomposition
+- Integrating interpolatory and nonlinear manifold reduced order models with domain decomposition
 
 ## Research Experience
 - **Graduate Researcher** - [Department of Computational Applied Mathematics and Operations Research](https://cmor.rice.edu/) at [Rice University](https://www.rice.edu/), 2020-present
