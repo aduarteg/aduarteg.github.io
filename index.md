@@ -4,9 +4,10 @@ I am a Ph.D. student in the
 (formerly Computational and Applied Mathematics (CAAM)) at 
 [Rice University](https://www.rice.edu/) in Houston, TX. My 
 advisor is Prof. [Matthias Heinkenschloss](https://www.caam.rice.edu/~heinken/)
-and my research focuses on data-driven model reduction for nonlinear dynamical systems. 
+and my research focuses on integrating reduced order models with domain decomposition. 
 I am a [National Defense Science and Engineering Graduate (NDSEG) Fellow](https://ndseg.org/)
 sponsored by the [Air Force Research Laboratory (AFRL)](https://www.afrl.af.mil/). 
+I also maintain a collaboration with Lawrence [Livermore National Laboratory (LLNL)](https://www.llnl.gov/). 
 Here is my [CV](ad_cv.pdf).
 
 ### Contact Info 
@@ -20,8 +21,9 @@ Here is my [CV](ad_cv.pdf).
 - **B.S.**, Mathematics with Departmental Honors, Minor in Physics, [University of Maryland, College Park](https://www-math.umd.edu/), May 2019
 
 ## Research Interests
-- Data-driven methods for model reduction
-- Physics-informed machine learning
+- Interpolatory methods for model reduction
+- Nonlinear manifold reduced order models using sparse autoencoders
+- Integrating model reduction with domain decomposition
 
 ## Research Experience
 - **Graduate Researcher** - [Department of Computational Applied Mathematics and Operations Research](https://cmor.rice.edu/) at [Rice University](https://www.rice.edu/), 2020-present
@@ -90,5 +92,5 @@ Model Order Reduction for Large-Scale Problems Minisymposium, SIAM Conference on
 
 - **Graduate Student Mentor**, Department of Computational and Applied Mathematics, Rice University,
 Aug. 2021 - Present
-- **Graduate Student Advisory Committee**, Rice University, Member, Aug. 2020 - Present
+- **Graduate Student Advisory Committee**, Rice University, Member, Aug. 2020 - May 2023
 - **Freshmen Math Mentorship Program**, Rice University, Graduate Student Mentor, Aug. 2020 - Dec. 2020
