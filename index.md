@@ -7,7 +7,7 @@ advisor is Prof. [Matthias Heinkenschloss](https://www.caam.rice.edu/~heinken/)
 and my research focuses on integrating reduced order models with domain decomposition. 
 I am a [National Defense Science and Engineering Graduate (NDSEG) Fellow](https://ndseg.org/)
 sponsored by the [Air Force Research Laboratory (AFRL)](https://www.afrl.af.mil/). 
-I also maintain a collaboration with Lawrence [Livermore National Laboratory (LLNL)](https://www.llnl.gov/). 
+I also maintain a collaboration with [Lawrence Livermore National Laboratory (LLNL)](https://www.llnl.gov/). 
 Here is my [CV](ad_cv.pdf).
 
 ### Contact Info 
