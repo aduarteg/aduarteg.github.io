@@ -25,9 +25,11 @@ Here is my [CV](ad_cv.pdf).
 - Nonlinear manifold reduced order models using sparse autoencoders
 - Integrating interpolatory and nonlinear manifold reduced order models with domain decomposition
 
-## Research Experience
+## Research and Work Experience
 - **Graduate Researcher** - [Department of Computational Applied Mathematics and Operations Research](https://cmor.rice.edu/) at [Rice University](https://www.rice.edu/), 2020-present
   - Data-driven methods for model reduction of nonlinear dynamical systems (advisor: Prof. [Matthias Heinkenschloss](https://www.caam.rice.edu/~heinken/))
+- **Data Science Intern** - [Microsoft](microsoft.com/en-us/), Summer 2023
+  - Applications of differential privacy to business needs
 - [**Defense Science and Technology Internship (DSTI)**](https://wci.llnl.gov/careers/students) - Graduate Summer Student at [Lawrence Livermore National Laboratory 
 (LLNL)](https://www.llnl.gov/), Summer 2022
   - Domain-decomposition nonlinear reduced order model with shallow masked autoencoder (advisor: [Youngsoo Choi](https://people.llnl.gov/choi15))
