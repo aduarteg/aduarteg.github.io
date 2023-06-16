@@ -45,6 +45,7 @@ Here is my [CV](ad_cv.pdf).
 
 ## Publications
 - A. N. Diaz, Y. Choi, M. Heinkenschloss, [_A fast and accurate domain-decomposition nonlinear manifold reduced order model_](https://doi.org/10.48550/arXiv.2305.15163). arXiv preprint arXiv:2305.15163 (2023).
+- 
 - A. N. Diaz, I. V. Gosea, M. Heinkenschloss, A. C. Antoulas., _Interpolation-based model reduction of quadratic-bilinear dynamical systems with quadratic-bilinear outputs_. Submitted to ACOM Topical Collection on Model Reduction and Surrogate Modeling (MORe) (2023).
 
 - A. N. Diaz, M. Heinkenschloss [_Towards Data-Driven Model Reduction of the Navier-Stokes Equations using the Loewner Framework_](https://doi.org/10.1007/978-3-030-90727-3_14). Active Flow and Combustion Control 2021, Notes on Numerical Fluid Mechanics and Multidisciplinary Design, vol 152. Springer, Cham. https://doi.org/10.1007/978-3-030-90727-3\_14
