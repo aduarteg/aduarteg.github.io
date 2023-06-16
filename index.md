@@ -1,5 +1,5 @@
 ## Bio
-I am a Ph.D. student in the
+I am a Ph.D. candidate in the
 [Department of Computational Applied Mathematics and Operations Research](https://cmor.rice.edu/) (CMOR)
 (formerly Computational and Applied Mathematics (CAAM)) at 
 [Rice University](https://www.rice.edu/) in Houston, TX. My 
@@ -44,15 +44,18 @@ Here is my [CV](ad_cv.pdf).
   - Tensor computations in supersymmetry (advisor: [S. James Gates Jr.](https://watson.brown.edu/people/faculty-fellows/gates))
 
 ## Publications
-- Diaz, A., Heinkenschloss, M. [_Towards Data-Driven Model Reduction of the Navier-Stokes Equations using the Loewner Framework_](https://doi.org/10.1007/978-3-030-90727-3_14). Active Flow and Combustion Control 2021, Notes on Numerical Fluid Mechanics and Multidisciplinary Design, vol 152. Springer, Cham. https://doi.org/10.1007/978-3-030-90727-3\_14
+- A. N. Diaz, Y. Choi, M. Heinkenschloss, [_A fast and accurate domain-decomposition nonlinear manifold reduced order model_](https://doi.org/10.48550/arXiv.2305.15163). arXiv preprint arXiv:2305.15163 (2023).
+- A. N. Diaz, I. V. Gosea, M. Heinkenschloss, A. C. Antoulas., _Interpolation-based model reduction of quadratic-bilinear dynamical systems with quadratic-bilinear outputs_. Submitted to ACOM Topical Collection on Model Reduction and Surrogate Modeling (MORe) (2023).
 
-- Bongiovanni, E., Diaz, A., Kakkar, A., _et al_. [_The Least-Area Tetrahedral Tile of Space_](https://doi.org/10.1007/s10711-019-00465-x). Geom Dedicata 205, 51–93 (2020). https://doi.org/10.1007/s10711-019-00465-x
+- A. N. Diaz, M. Heinkenschloss [_Towards Data-Driven Model Reduction of the Navier-Stokes Equations using the Loewner Framework_](https://doi.org/10.1007/978-3-030-90727-3_14). Active Flow and Combustion Control 2021, Notes on Numerical Fluid Mechanics and Multidisciplinary Design, vol 152. Springer, Cham. https://doi.org/10.1007/978-3-030-90727-3\_14
 
-- Bongiovanni, E., Diaz, A., Kakkar, A., Sothanaphan, N. [_Isoperimetry in Surfaces of Revolution with Density_](https://doi.org/10.35834/mjms/1544151692). Missouri J. Math. Sci. 30 (2018), no. 2, 150--165. https://doi.org/10.35834/mjms/1544151692
+- E. Bongiovanni, A. N. Diaz, A. Kakkar, _et al_. [_The Least-Area Tetrahedral Tile of Space_](https://doi.org/10.1007/s10711-019-00465-x). Geom Dedicata 205, 51–93 (2020). https://doi.org/10.1007/s10711-019-00465-x
 
-- Bongiovanni, E., Di Giosia, L., Diaz, A., et al. (2018). [_Double Bubbles on the Real Line with Log-Convex Density_](https://doi.org/10.1515/agms-2018-0004). Analysis and Geometry in Metric Spaces, 6(1), pp. 64-88. https://doi.org/10.1515/agms-2018-0004
+- E. Bongiovanni, A. N. Diaz, A. Kakkar, N. Sothanaphan [_Isoperimetry in Surfaces of Revolution with Density_](https://doi.org/10.35834/mjms/1544151692). Missouri J. Math. Sci. 30 (2018), no. 2, 150--165. https://doi.org/10.35834/mjms/1544151692
 
-- Caldwell W., Diaz A., Friend I., et al., [_On the Four Dimensional Holoraumy of the 4D, N=1 Complex Linear Supermultiplet_](https://doi.org/10.1142/S0217751X18500720), International Journal of Modern Physics A 33 (2018), 1850072. https://doi.org/10.1142/S0217751X18500720
+- E. Bongiovanni, L. Di Giosia, A. N. Diaz, et al. (2018). [_Double Bubbles on the Real Line with Log-Convex Density_](https://doi.org/10.1515/agms-2018-0004). Analysis and Geometry in Metric Spaces, 6(1), pp. 64-88. https://doi.org/10.1515/agms-2018-0004
+
+- W. Caldwell, A. N. Diaz, I. Friend, et al., [_On the Four Dimensional Holoraumy of the 4D, N=1 Complex Linear Supermultiplet_](https://doi.org/10.1142/S0217751X18500720), International Journal of Modern Physics A 33 (2018), 1850072. https://doi.org/10.1142/S0217751X18500720
 
 ## Honors and Awards
 - [**Global Young Scientists Summit 2022 Attendee**](https://www.nrf.gov.sg/gyss/home), Oct. 2021
@@ -68,13 +71,15 @@ Here is my [CV](ad_cv.pdf).
 - [**Banneker-Key Scholarship**](https://www.bannekerkey.umd.edu/), University of Maryland, College Park, May 2015.
 
 ## Talks and Presentations
-- Diaz A., _Impact of the Convergence of Series Expansions on Model Reduction of Quadratic-Bilinear Systems_. Presentation, 2022 Model Reduction and Surrogate Modeling Conference, 21 Sept. 2022, Berlin, Germany.
-- Diaz, A. _Data-Driven Model Reduction using the Loewner Framework_. Poster, 2021 Oil and Gas HPC Conference, 5 Mar. 2021, Houston, TX (virtual).
-- Diaz, A. _Data-Driven Model Reduction using the Loewner Framework_. Presentation,
+- A. N. Diaz, _A fast and accurate domain-decomposition nonlinear reduced order model using shallow masked autoencoders_. Presentation, 2023 SIAM Conference on Computational Science and Engineering (CSE23), 27 Feb. 2023, Amsterdam, The Netherlands.
+- A. N. Diaz, _A fast and accurate domain-decomposition nonlinear reduced order model using shallow masked autoencoders_. Presentation, 5th Annual Meeting of the SIAM Texas-Louisiana Section, 4-6 Nov. 2022, Houston, TX.
+- A. N. Diaz, _Impact of the Convergence of Series Expansions on Model Reduction of Quadratic-Bilinear Systems_. Presentation, 2022 Model Reduction and Surrogate Modeling Conference, 21 Sept. 2022, Berlin, Germany.
+- A. N. Diaz _Data-Driven Model Reduction using the Loewner Framework_. Poster, 2021 Oil and Gas HPC Conference, 5 Mar. 2021, Houston, TX (virtual).
+- A. N. Diaz _Data-Driven Model Reduction using the Loewner Framework_. Presentation,
 Model Order Reduction for Large-Scale Problems Minisymposium, SIAM Conference on Computational Science and Engineering, 4 Mar. 2021, Fort Worth, TX (virtual).
-- Diaz, A., Kakkar, A. _The Least-Area Tetrahedral Tile of Space_. Poster, MAA Undergraduate Student Poster Session, Joint Mathematics Meetings, 12 Jan. 2018, San Diego, CA.
-- Diaz, A. _Existence and Boundedness of Isoperimetric Regions in Surfaces of Revolution with Density_, Informal Geometric Analysis Seminar, 14 Nov. 2017, Math Department, University of Maryland, College Park. Seminar.
-- Diaz, A. _The Log-Convex Density Conjecture in Hyperbolic Space_. MAA Student Paper Sessions, MathFest. 28 Jul. 2017, Hilton Hotel, Chicago, IL. Student Presentation.
+- A. N. Diaz, A. Kakkar _The Least-Area Tetrahedral Tile of Space_. Poster, MAA Undergraduate Student Poster Session, Joint Mathematics Meetings, 12 Jan. 2018, San Diego, CA.
+- A. N. Diaz _Existence and Boundedness of Isoperimetric Regions in Surfaces of Revolution with Density_, Informal Geometric Analysis Seminar, 14 Nov. 2017, Math Department, University of Maryland, College Park. Seminar.
+- A. N. Diaz _The Log-Convex Density Conjecture in Hyperbolic Space_. MAA Student Paper Sessions, MathFest. 28 Jul. 2017, Hilton Hotel, Chicago, IL. Student Presentation.
 
 ## Teaching
 - **Grader**, Department of Computational and Applied Mathematics, Rice University
@@ -89,10 +94,10 @@ Model Order Reduction for Large-Scale Problems Minisymposium, SIAM Conference on
 ## Service
 - **SIAM Student Chapter**, Rice University
   - President, Aug. 2022 - Aug. 2023
-  - GSA Representative, Aug. 2021 - Aug. 2022 
+  - Graduate Student Association Representative, Aug. 2021 - Aug. 2022 
   - Treasurer, Aug. 2020 - Aug. 2021
 
 - **Graduate Student Mentor**, Department of Computational and Applied Mathematics, Rice University,
-Aug. 2021 - Present
+Aug. 2021 - Aug. 2022
 - **Graduate Student Advisory Committee**, Rice University, Member, Aug. 2020 - May 2023
 - **Freshmen Math Mentorship Program**, Rice University, Graduate Student Mentor, Aug. 2020 - Dec. 2020
