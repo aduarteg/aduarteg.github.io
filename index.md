@@ -47,17 +47,11 @@ Here is my [CV](ad_cv.pdf).
 
 ## Publications and Preprints
 - A. N. Diaz, Y. Choi, M. Heinkenschloss, [_A fast and accurate domain-decomposition nonlinear manifold reduced order model_](https://doi.org/10.48550/arXiv.2305.15163). arXiv preprint arXiv:2305.15163 (2023).
-  
 - A. N. Diaz, I. V. Gosea, M. Heinkenschloss, A. C. Antoulas., _Interpolation-based model reduction of quadratic-bilinear dynamical systems with quadratic-bilinear outputs_. Submitted to ACOM Topical Collection on Model Reduction and Surrogate Modeling (MORe) (2023).
-
 - A. N. Diaz, M. Heinkenschloss [_Towards Data-Driven Model Reduction of the Navier-Stokes Equations using the Loewner Framework_](https://doi.org/10.1007/978-3-030-90727-3_14). Active Flow and Combustion Control 2021, Notes on Numerical Fluid Mechanics and Multidisciplinary Design, vol 152. Springer, Cham. https://doi.org/10.1007/978-3-030-90727-3\_14
-
 - E. Bongiovanni, A. N. Diaz, A. Kakkar, _et al_. [_The Least-Area Tetrahedral Tile of Space_](https://doi.org/10.1007/s10711-019-00465-x). Geom Dedicata 205, 51–93 (2020). https://doi.org/10.1007/s10711-019-00465-x
-
 - E. Bongiovanni, A. N. Diaz, A. Kakkar, N. Sothanaphan [_Isoperimetry in Surfaces of Revolution with Density_](https://doi.org/10.35834/mjms/1544151692). Missouri J. Math. Sci. 30 (2018), no. 2, 150--165. https://doi.org/10.35834/mjms/1544151692
-
 - E. Bongiovanni, L. Di Giosia, A. N. Diaz, et al. (2018). [_Double Bubbles on the Real Line with Log-Convex Density_](https://doi.org/10.1515/agms-2018-0004). Analysis and Geometry in Metric Spaces, 6(1), pp. 64-88. https://doi.org/10.1515/agms-2018-0004
-
 - W. Caldwell, A. N. Diaz, I. Friend, et al., [_On the Four Dimensional Holoraumy of the 4D, N=1 Complex Linear Supermultiplet_](https://doi.org/10.1142/S0217751X18500720), International Journal of Modern Physics A 33 (2018), 1850072. https://doi.org/10.1142/S0217751X18500720
 
 ## Honors and Awards
