@@ -1,4 +1,5 @@
 # Alejandro N. Diaz 
+<img align="center" width="200" height="200" src="headshot_cropped.jpg">
 
 ## Bio
 I am a Ph.D. candidate in the
