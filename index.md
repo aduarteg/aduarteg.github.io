@@ -1,3 +1,5 @@
+# Alejandro N. Diaz 
+
 ## Bio
 I am a Ph.D. candidate in the
 [Department of Computational Applied Mathematics and Operations Research](https://cmor.rice.edu/) (CMOR)
