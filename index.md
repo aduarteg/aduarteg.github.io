@@ -21,21 +21,23 @@ Here is my [CV](ad_cv.pdf).
 - **B.S.**, Mathematics with Departmental Honors, Minor in Physics, [University of Maryland, College Park](https://www-math.umd.edu/), May 2019
 
 ## Research Interests
-- Interpolatory methods for model reduction
+- Physics-informed and data-driven methods for model reduction
+- Interpolatory reduced order models for nonlinear dynamical systems 
 - Nonlinear manifold reduced order models using sparse autoencoders
 - Integrating interpolatory and nonlinear manifold reduced order models with domain decomposition
+- Scientific machine learning 
 
 ## Research and Work Experience
 - **Graduate Researcher** - [Department of Computational Applied Mathematics and Operations Research](https://cmor.rice.edu/) at [Rice University](https://www.rice.edu/), 2020-present
-  - Data-driven methods for model reduction of nonlinear dynamical systems (advisor: Prof. [Matthias Heinkenschloss](https://www.caam.rice.edu/~heinken/))
+  - Interpolatory and nonlinear manifold reduced order models with domain decomposition (advisor: Prof. [Matthias Heinkenschloss](https://www.caam.rice.edu/~heinken/))
 - **Data Science Intern** - [Microsoft](microsoft.com/en-us/), Summer 2023
-  - Applications of differential privacy to business needs
+  - Implemented differential privacy auditing algorithm with 170x speedup
 - [**Defense Science and Technology Internship (DSTI)**](https://wci.llnl.gov/careers/students) - Graduate Summer Student at [Lawrence Livermore National Laboratory 
 (LLNL)](https://www.llnl.gov/), Summer 2022
-  - Domain-decomposition nonlinear reduced order model with shallow masked autoencoder (advisor: [Youngsoo Choi](https://people.llnl.gov/choi15))
+  - Domain-decomposition nonlinear manifold reduced order model using sparse autoencoders (advisor: [Youngsoo Choi](https://people.llnl.gov/choi15))
 
 - **UCLA Applied Mathematics REU**, University of California, Los Angeles, Summer 2018
-  - Machine learning approaches for microfluidic device design (advisors: [Marcus Roper](https://www.math.ucla.edu/people/ladder/mroper), [Hangjie Ji](https://hji5.math.ncsu.edu/))
+  - Data-driven approaches for microfluidic device design (advisors: [Marcus Roper](https://www.math.ucla.edu/people/ladder/mroper), [Hangjie Ji](https://hji5.math.ncsu.edu/))
 
 - [**SMALL NSF REU**](https://math.williams.edu/small/), Williams College, Summer 2017
   - Tetrahedral tilings, isoperimetric surfaces (advisor: [Frank Morgan](https://math.williams.edu/morgan/))
@@ -43,7 +45,7 @@ Here is my [CV](ad_cv.pdf).
 - [**Summer Student Theoretical Physics Research Session**](https://cmns.umd.edu/news-events/features/3598), University of Maryland, College Park, Summer 2016
   - Tensor computations in supersymmetry (advisor: [S. James Gates Jr.](https://watson.brown.edu/people/faculty-fellows/gates))
 
-## Publications
+## Publications and Preprints
 - A. N. Diaz, Y. Choi, M. Heinkenschloss, [_A fast and accurate domain-decomposition nonlinear manifold reduced order model_](https://doi.org/10.48550/arXiv.2305.15163). arXiv preprint arXiv:2305.15163 (2023).
 - 
 - A. N. Diaz, I. V. Gosea, M. Heinkenschloss, A. C. Antoulas., _Interpolation-based model reduction of quadratic-bilinear dynamical systems with quadratic-bilinear outputs_. Submitted to ACOM Topical Collection on Model Reduction and Surrogate Modeling (MORe) (2023).
@@ -59,6 +61,7 @@ Here is my [CV](ad_cv.pdf).
 - W. Caldwell, A. N. Diaz, I. Friend, et al., [_On the Four Dimensional Holoraumy of the 4D, N=1 Complex Linear Supermultiplet_](https://doi.org/10.1142/S0217751X18500720), International Journal of Modern Physics A 33 (2018), 1850072. https://doi.org/10.1142/S0217751X18500720
 
 ## Honors and Awards
+- **Honorable Mention for Poster Presentation in Mathematics**, [NDSEG Fellowship Program 4th Annual Conference](https://ndseg.vfairs.com/), Aug. 2023.
 - [**Global Young Scientists Summit 2022 Attendee**](https://www.nrf.gov.sg/gyss/home), Oct. 2021
 - [**National Defense Science and Engineering Graduate Fellowship**](https://ndseg.org/), Mar. 2021,
   - Sponsoring Agency: [Air Force Research Laboratory](https://www.afrl.af.mil/).
@@ -72,6 +75,8 @@ Here is my [CV](ad_cv.pdf).
 - [**Banneker-Key Scholarship**](https://www.bannekerkey.umd.edu/), University of Maryland, College Park, May 2015.
 
 ## Talks and Presentations
+- A. N. Diaz, _Nonlinear Manifold Reduced Order Models with Domain Decomposition_. Poster presentation, NDSEG Fellowship Program 4th Annual Conference, 1 Aug. 2023,
+San Antonio, TX.
 - A. N. Diaz, _A fast and accurate domain-decomposition nonlinear reduced order model using shallow masked autoencoders_. Presentation, 2023 SIAM Conference on Computational Science and Engineering (CSE23), 27 Feb. 2023, Amsterdam, The Netherlands.
 - A. N. Diaz, _A fast and accurate domain-decomposition nonlinear reduced order model using shallow masked autoencoders_. Presentation, 5th Annual Meeting of the SIAM Texas-Louisiana Section, 4-6 Nov. 2022, Houston, TX.
 - A. N. Diaz, _Impact of the Convergence of Series Expansions on Model Reduction of Quadratic-Bilinear Systems_. Presentation, 2022 Model Reduction and Surrogate Modeling Conference, 21 Sept. 2022, Berlin, Germany.
