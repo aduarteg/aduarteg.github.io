@@ -26,7 +26,7 @@ Here is my [CV](ad_cv.pdf).
 - Physics-informed and data-driven methods for model reduction
 - Interpolatory reduced order models for nonlinear dynamical systems 
 - Nonlinear manifold reduced order models using sparse autoencoders
-- Integrating interpolatory and nonlinear manifold reduced order models with domain decomposition
+- Integrating reduced order models with domain decomposition
 - Scientific machine learning 
 
 ## Research and Work Experience
