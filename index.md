@@ -48,9 +48,11 @@ Here is my [CV](ad_cv.pdf).
   - Tensor computations in supersymmetry (advisor: [S. James Gates Jr.](https://watson.brown.edu/people/faculty-fellows/gates))
 
 ## Publications and Preprints
-- A. N. Diaz, Y. Choi, M. Heinkenschloss, [_A fast and accurate domain-decomposition nonlinear manifold reduced order model_](https://doi.org/10.48550/arXiv.2305.15163). arXiv preprint arXiv:2305.15163 (2023).
+- A. N. Diaz, I. V. Gosea, M. Heinkenschloss, A. C. Antoulas., _Interpolation-based model reduction of quadratic-bilinear dynamical systems with quadratic-bilinear outputs_. Accepted to ACOM Topical Collection on Model Reduction and Surrogate Modeling (MORe) (2023).
 
-- A. N. Diaz, I. V. Gosea, M. Heinkenschloss, A. C. Antoulas., _Interpolation-based model reduction of quadratic-bilinear dynamical systems with quadratic-bilinear outputs_. Submitted to ACOM Topical Collection on Model Reduction and Surrogate Modeling (MORe) (2023).
+- A. N. Diaz, Y. Choi, M. Heinkenschloss. _Nonlinear-manifold reduced order models with domain decomposition_. Submitted to the Machine Learning and Physical Sciences Workshop at NeurIPS (2023).
+  
+- A. N. Diaz, Y. Choi, M. Heinkenschloss, [_A fast and accurate domain-decomposition nonlinear manifold reduced order model_](https://doi.org/10.48550/arXiv.2305.15163). arXiv preprint arXiv:2305.15163 (2023).
 
 - A. N. Diaz, M. Heinkenschloss [_Towards Data-Driven Model Reduction of the Navier-Stokes Equations using the Loewner Framework_](https://doi.org/10.1007/978-3-030-90727-3_14). Active Flow and Combustion Control 2021, Notes on Numerical Fluid Mechanics and Multidisciplinary Design, vol 152. Springer, Cham. https://doi.org/10.1007/978-3-030-90727-3\_14
 
@@ -77,6 +79,9 @@ Here is my [CV](ad_cv.pdf).
 - [**Banneker-Key Scholarship**](https://www.bannekerkey.umd.edu/), University of Maryland, College Park, May 2015.
 
 ## Talks and Presentations
+- A. N. Diaz, _Nonlinear manifold reduced order models with domain decomposition_. Presentation, 6th Annual Meeting of the SIAM Texas-Louisiana Section, 4 Nov. 2023, Lafayette, LA. 
+- A. N. Diaz, _Neural network-based reduced-order models with domain decomposition_. Seminar, Network, Cyber & Computational Sciences Division at Army Research Laboratory, 25 Oct. 2023, Aberdeen, MD.
+- A. N. Diaz, _Neural network-based reduced-order models with domain decomposition_. Presentation, Research Training Group in Numerical Mathematics and Scientific Computing at Rice University Annual Workshop, 13 Oct. 2023, Houston, TX.
 - A. N. Diaz, _Nonlinear Manifold Reduced Order Models with Domain Decomposition_. Poster presentation, NDSEG Fellowship Program 4th Annual Conference, 1 Aug. 2023,
 San Antonio, TX.
 - A. N. Diaz, _A fast and accurate domain-decomposition nonlinear reduced order model using shallow masked autoencoders_. Presentation, 2023 SIAM Conference on Computational Science and Engineering (CSE23), 27 Feb. 2023, Amsterdam, The Netherlands.
