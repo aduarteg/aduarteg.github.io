@@ -50,7 +50,7 @@ Here is my [CV](ad_cv.pdf).
 ## Publications and Preprints
 - A. N. Diaz, I. V. Gosea, M. Heinkenschloss, A. C. Antoulas., _Interpolation-based model reduction of quadratic-bilinear dynamical systems with quadratic-bilinear outputs_. Accepted to ACOM Topical Collection on Model Reduction and Surrogate Modeling (MORe) (2023).
 
-- A. N. Diaz, Y. Choi, M. Heinkenschloss. _Nonlinear-manifold reduced order models with domain decomposition_. Submitted to the Machine Learning and Physical Sciences Workshop at NeurIPS (2023).
+- A. N. Diaz, Y. Choi, M. Heinkenschloss. _Nonlinear-manifold reduced order models with domain decomposition_. Accepted to the Machine Learning and Physical Sciences Workshop at NeurIPS (2023).
   
 - A. N. Diaz, Y. Choi, M. Heinkenschloss, [_A fast and accurate domain-decomposition nonlinear manifold reduced order model_](https://doi.org/10.48550/arXiv.2305.15163). arXiv preprint arXiv:2305.15163 (2023).
 
