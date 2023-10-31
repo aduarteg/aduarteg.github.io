@@ -27,6 +27,7 @@ Here is my [CV](ad_cv.pdf).
 - Surrogate modeling
 - Dimension reduction
 - Scientific machine learning
+- Scientific computing
 
 ## Research and Work Experience
 - **Graduate Researcher** - [Department of Computational Applied Mathematics and Operations Research](https://cmor.rice.edu/) at [Rice University](https://www.rice.edu/), 2020-present
