@@ -23,12 +23,10 @@ Here is my [CV](ad_cv.pdf).
 - **B.S.**, Mathematics with Departmental Honors, Minor in Physics, [University of Maryland, College Park](https://www-math.umd.edu/), May 2019
 
 ## Research Interests
-- Interpolatory reduced-order models for nonlinear dynamical systems 
-- Autoencoder-based nonlinear-manifold reduced-order models
-- Integrating reduced-order models with domain decomposition
-- Scientific machine learning
+- Reduced-order modeling
 - Surrogate modeling
 - Dimension reduction
+- Scientific machine learning
 
 ## Research and Work Experience
 - **Graduate Researcher** - [Department of Computational Applied Mathematics and Operations Research](https://cmor.rice.edu/) at [Rice University](https://www.rice.edu/), 2020-present
