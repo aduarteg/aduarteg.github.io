@@ -79,6 +79,8 @@ Here is my [CV](ad_cv.pdf).
 - [**Banneker-Key Scholarship**](https://www.bannekerkey.umd.edu/), University of Maryland, College Park, May 2015.
 
 ## Talks and Presentations
+- A. N. Diaz, Y. Choi, M. Heinkenschloss. _Nonlinear manifold reduced order models with domain decomposition_. Poster, Machine Learning and the Physical Sciences Workshop, NeurIPS 2023, 15 Dec. 2023, New Orleans, LA. 
+- A. N. Diaz, Y. Choi, M. Heinkenschloss. _Nonlinear manifold reduced order models with domain decomposition_. Poster, Mathematical Opportunities in Digital Twins Workshop, 11 Dec. 2023, Fairfax, VA. 
 - A. N. Diaz, _Nonlinear manifold reduced order models with domain decomposition_. Presentation, 6th Annual Meeting of the SIAM Texas-Louisiana Section, 4 Nov. 2023, Lafayette, LA. 
 - A. N. Diaz, _Neural network-based reduced-order models with domain decomposition_. Seminar, Network, Cyber & Computational Sciences Division at Army Research Laboratory, 25 Oct. 2023, Aberdeen, MD.
 - A. N. Diaz, _Neural network-based reduced-order models with domain decomposition_. Presentation, Research Training Group in Numerical Mathematics and Scientific Computing at Rice University Annual Workshop, 13 Oct. 2023, Houston, TX.
