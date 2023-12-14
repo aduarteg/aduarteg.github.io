@@ -48,9 +48,10 @@ Here is my [CV](ad_cv.pdf).
   - Tensor computations in supersymmetry (advisor: [S. James Gates Jr.](https://watson.brown.edu/people/faculty-fellows/gates))
 
 ## Publications and Preprints
-- A. N. Diaz, I. V. Gosea, M. Heinkenschloss, A. C. Antoulas., _Interpolation-based model reduction of quadratic-bilinear dynamical systems with quadratic-bilinear outputs_. Accepted to ACOM Topical Collection on Model Reduction and Surrogate Modeling (MORe) (2023).
+- A. N. Diaz, I. V. Gosea, M. Heinkenschloss, A. C. Antoulas., _Interpolation-based model reduction of quadratic-bilinear dynamical systems with quadratic-bilinear outputs_. Adv
+Comput Math 49, 95 (2023). [https://doi.org/10.1007/s10444-023-10096-2](https://doi.org/10.1007/s10444-023-10096-2)
 
-- A. N. Diaz, Y. Choi, M. Heinkenschloss. _Nonlinear-manifold reduced order models with domain decomposition_. Accepted to the Machine Learning and Physical Sciences Workshop at NeurIPS (2023).
+- A. N. Diaz, Y. Choi, M. Heinkenschloss. _Nonlinear-manifold reduced order models with domain decomposition_. Machine Learning and the Physical Sciences Workshop, NeurIPS (2023). [https://ml4physicalsciences.github.io/2023/files/NeurIPS_ML4PS_2023_30.pdf](https://ml4physicalsciences.github.io/2023/files/NeurIPS_ML4PS_2023_30.pdf)
   
 - A. N. Diaz, Y. Choi, M. Heinkenschloss, [_A fast and accurate domain-decomposition nonlinear manifold reduced order model_](https://doi.org/10.48550/arXiv.2305.15163). arXiv preprint arXiv:2305.15163 (2023).
 
