@@ -1,39 +1,32 @@
 # Alejandro N. Diaz 
 <img align="center" width="200" height="200" src="headshot_cropped.jpg">
 
-I am a Ph.D. candidate in the
+I recently completed my PhD in the
 [Department of Computational Applied Mathematics and Operations Research](https://cmor.rice.edu/) (CMOR)
 (formerly Computational and Applied Mathematics (CAAM)) at 
-[Rice University](https://www.rice.edu/) in Houston, TX. My 
-advisor is Prof. [Matthias Heinkenschloss](https://www.caam.rice.edu/~heinken/)
-and my research focuses on integrating neural network-based reduced-order models with domain decomposition. 
-I am a [National Defense Science and Engineering Graduate (NDSEG) Fellow](https://ndseg.org/)
+[Rice University](https://www.rice.edu/) in Houston, TX, 
+and will soon be joining [Sandia National Laboratories](https://www.sandia.gov/) as the
+[S. Scott Collis Fellow in Data Science](https://www.sandia.gov/careers/career-possibilities/students-and-postdocs/fellowships/data-science-fellowship/). 
+My PhD research was advised by Prof. [Matthias Heinkenschloss](https://www.caam.rice.edu/~heinken/)
+and focused on integrating neural network-based reduced-order models with domain decomposition. 
+While a graduate student, I was a [National Defense Science and Engineering Graduate (NDSEG) Fellow](https://ndseg.org/)
 sponsored by the [Air Force Office of Scientific Research](https://www.afrl.af.mil/AFOSR/). 
 I also maintain a collaboration with [Lawrence Livermore National Laboratory (LLNL)](https://www.llnl.gov/). 
 Here is my [CV](ad_cv.pdf).
 
 ### Contact Info 
-- **Office**: Duncan Hall 2108, Rice University
 - **Email**: and5@rice.edu
 - **LinkedIn**: [www.linkedin.com/in/alejandro-diaz-855152226](https://www.linkedin.com/in/alejandro-diaz-855152226/)
 
-## Education 
-- **Ph.D.**, Computational and Applied Mathematics, Rice University, May 2024 (expected)
-- **M.A.**, Computational and Applied Mathematics, Rice University, May 2022
-- **B.S.**, Mathematics with Departmental Honors, Minor in Physics, [University of Maryland, College Park](https://www-math.umd.edu/), May 2019
-
-## Research Interests
-- Reduced-order modeling
-- Surrogate modeling
-- Dimension reduction
-- Scientific machine learning
-- Scientific computing
-
 ## Research and Work Experience
+- [**S. Scott Collis Fellow in Data Science**](https://www.sandia.gov/careers/career-possibilities/students-and-postdocs/fellowships/data-science-fellowship/) - [Sandia National Laboratories](https://www.sandia.gov/), July 2024-present
+  
 - **Graduate Researcher** - [Department of Computational Applied Mathematics and Operations Research](https://cmor.rice.edu/) at [Rice University](https://www.rice.edu/), 2020-present
   - Interpolatory and nonlinear manifold reduced order models with domain decomposition (advisor: Prof. [Matthias Heinkenschloss](https://www.caam.rice.edu/~heinken/))
+    
 - **Data Science Intern** - [Microsoft](microsoft.com/en-us/), Summer 2023
   - Implemented differential privacy auditing algorithm with 170x speedup
+    
 - [**Defense Science and Technology Internship (DSTI)**](https://wci.llnl.gov/careers/students) - Graduate Summer Student at [Lawrence Livermore National Laboratory 
 (LLNL)](https://www.llnl.gov/), Summer 2022
   - Domain-decomposition nonlinear manifold reduced order model using sparse autoencoders (advisor: [Youngsoo Choi](https://people.llnl.gov/choi15))
@@ -46,6 +39,18 @@ Here is my [CV](ad_cv.pdf).
 
 - [**Summer Student Theoretical Physics Research Session**](https://cmns.umd.edu/news-events/features/3598), University of Maryland, College Park, Summer 2016
   - Tensor computations in supersymmetry (advisor: [S. James Gates Jr.](https://watson.brown.edu/people/faculty-fellows/gates))
+    
+## Education 
+- **Ph.D.**, Computational and Applied Mathematics, Rice University, May 2024 
+- **M.A.**, Computational and Applied Mathematics, Rice University, May 2022
+- **B.S.**, Mathematics with Departmental Honors, Minor in Physics, [University of Maryland, College Park](https://www-math.umd.edu/), May 2019
+
+## Research Interests
+- Reduced-order modeling
+- Surrogate modeling
+- Dimension reduction
+- Scientific machine learning
+- Scientific computing
 
 ## Publications and Preprints
 - A. N. Diaz, Y. Choi, M. Heinkenschloss, [_A fast and accurate domain-decomposition nonlinear manifold reduced order model_](https://doi.org/10.1016/j.cma.2024.116943). Computer Methods in Applied Mechanics
