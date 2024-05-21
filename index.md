@@ -72,20 +72,6 @@ Comput Math 49, 95 (2023). [https://doi.org/10.1007/s10444-023-10096-2](https://
 
 - W. Caldwell, A. N. Diaz, I. Friend, et al., [_On the Four Dimensional Holoraumy of the 4D, N=1 Complex Linear Supermultiplet_](https://doi.org/10.1142/S0217751X18500720), International Journal of Modern Physics A 33 (2018), 1850072. https://doi.org/10.1142/S0217751X18500720
 
-## Honors and Awards
-- **Honorable Mention for Poster Presentation in Mathematics**, [NDSEG Fellowship Program 4th Annual Conference](https://ndseg.vfairs.com/), Aug. 2023.
-- [**Global Young Scientists Summit 2022 Attendee**](https://www.nrf.gov.sg/gyss/home), Oct. 2021
-- [**National Defense Science and Engineering Graduate Fellowship**](https://ndseg.org/), Mar. 2021,
-  - Sponsoring Agency: [Air Force Office of Scientific Research](https://www.afrl.af.mil/AFOSR/).
-- [**National Science Foundation Graduate Research Fellowship Program Honorable Mention**](https://www.nsfgrfp.org/) , Mar. 2021.
-- [**Ken Kennedy Institute 2020/21 BP Graduate Fellowship**](https://kenkennedy.rice.edu/fellowships/bp), Rice University, Dec. 2020.
-- [**Ken Kennedy Institute Computational Science and Engineering Fellowship**](https://kenkennedy.rice.edu/funding/recruiting-fellowships), Rice University, May 2019.
-- **Departmental Honors**, [Department of Mathematics, University of Maryland, College Park](https://www-math.umd.edu/), May 2019.
-- **Strauss Teaching Assistantship**, [Department of Mathematics, University of Maryland, College Park](https://www-math.umd.edu/), Fall 2018 – Spring 2019.
-- [**University Honors Citation**](http://universityhonors.umd.edu/citation/), University of Maryland, College Park, Apr. 2018.
-- **Outstanding Poster**, Joint Mathematics Meeting, Jan. 2018.
-- [**Banneker-Key Scholarship**](https://www.bannekerkey.umd.edu/), University of Maryland, College Park, May 2015.
-
 ## Talks and Presentations
 - A. N. Diaz, Y. Choi, M. Heinkenschloss. _Nonlinear manifold reduced order models with domain decomposition_. Poster, Machine Learning and the Physical Sciences Workshop, NeurIPS 2023, 15 Dec. 2023, New Orleans, LA. 
 - A. N. Diaz, Y. Choi, M. Heinkenschloss. _Nonlinear manifold reduced order models with domain decomposition_. Poster, Mathematical Opportunities in Digital Twins, 11 Dec. 2023, Fairfax, VA. 
@@ -104,6 +90,20 @@ Model Order Reduction for Large-Scale Problems Minisymposium, SIAM Conference on
 - A. N. Diaz _Existence and Boundedness of Isoperimetric Regions in Surfaces of Revolution with Density_, Informal Geometric Analysis Seminar, 14 Nov. 2017, Math Department, University of Maryland, College Park. Seminar.
 - A. N. Diaz _The Log-Convex Density Conjecture in Hyperbolic Space_. MAA Student Paper Sessions, MathFest. 28 Jul. 2017, Hilton Hotel, Chicago, IL. Student Presentation.
 
+## Honors and Awards
+- **Honorable Mention for Poster Presentation in Mathematics**, [NDSEG Fellowship Program 4th Annual Conference](https://ndseg.vfairs.com/), Aug. 2023.
+- [**Global Young Scientists Summit 2022 Attendee**](https://www.nrf.gov.sg/gyss/home), Oct. 2021
+- [**National Defense Science and Engineering Graduate Fellowship**](https://ndseg.org/), Mar. 2021,
+  - Sponsoring Agency: [Air Force Office of Scientific Research](https://www.afrl.af.mil/AFOSR/).
+- [**National Science Foundation Graduate Research Fellowship Program Honorable Mention**](https://www.nsfgrfp.org/) , Mar. 2021.
+- [**Ken Kennedy Institute 2020/21 BP Graduate Fellowship**](https://kenkennedy.rice.edu/fellowships/bp), Rice University, Dec. 2020.
+- [**Ken Kennedy Institute Computational Science and Engineering Fellowship**](https://kenkennedy.rice.edu/funding/recruiting-fellowships), Rice University, May 2019.
+- **Departmental Honors**, [Department of Mathematics, University of Maryland, College Park](https://www-math.umd.edu/), May 2019.
+- **Strauss Teaching Assistantship**, [Department of Mathematics, University of Maryland, College Park](https://www-math.umd.edu/), Fall 2018 – Spring 2019.
+- [**University Honors Citation**](http://universityhonors.umd.edu/citation/), University of Maryland, College Park, Apr. 2018.
+- **Outstanding Poster**, Joint Mathematics Meeting, Jan. 2018.
+- [**Banneker-Key Scholarship**](https://www.bannekerkey.umd.edu/), University of Maryland, College Park, May 2015.
+  
 ## Teaching
 - **Grader**, Department of Computational and Applied Mathematics, Rice University
   - CAAM 336, Fall 2019, Spring 2020
