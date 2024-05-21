@@ -75,7 +75,7 @@ Comput Math 49, 95 (2023). [https://doi.org/10.1007/s10444-023-10096-2](https://
 - **Honorable Mention for Poster Presentation in Mathematics**, [NDSEG Fellowship Program 4th Annual Conference](https://ndseg.vfairs.com/), Aug. 2023.
 - [**Global Young Scientists Summit 2022 Attendee**](https://www.nrf.gov.sg/gyss/home), Oct. 2021
 - [**National Defense Science and Engineering Graduate Fellowship**](https://ndseg.org/), Mar. 2021,
-  - Sponsoring Agency: [Air Force Research Laboratory](https://www.afrl.af.mil/).
+  - Sponsoring Agency: [Air Force Office of Scientific Research](https://www.afrl.af.mil/AFOSR/).
 - [**National Science Foundation Graduate Research Fellowship Program Honorable Mention**](https://www.nsfgrfp.org/) , Mar. 2021.
 - [**Ken Kennedy Institute 2020/21 BP Graduate Fellowship**](https://kenkennedy.rice.edu/fellowships/bp), Rice University, Dec. 2020.
 - [**Ken Kennedy Institute Computational Science and Engineering Fellowship**](https://kenkennedy.rice.edu/funding/recruiting-fellowships), Rice University, May 2019.
