@@ -2,6 +2,7 @@
 <img align="center" width="200" height="200" src="headshot_cropped.jpg">
 
 ## Bio
+I am a computational and applied mathematician and the current [S. Scott Collis Fellow in Data Science](https://www.sandia.gov/careers/career-possibilities/students-and-postdocs/fellowships/data-science-fellowship/) at [Sandia National Labs](https://www.sandia.gov/).
 I recently completed my PhD in the
 [Department of Computational Applied Mathematics and Operations Research](https://cmor.rice.edu/) (CMOR)
 (formerly Computational and Applied Mathematics (CAAM)) at 
