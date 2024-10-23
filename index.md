@@ -2,13 +2,11 @@
 <img align="center" width="200" height="200" src="headshot_cropped.jpg">
 
 ## Bio
-I am a computational and applied mathematician and the current [S. Scott Collis Fellow in Data Science](https://www.sandia.gov/careers/career-possibilities/students-and-postdocs/fellowships/data-science-fellowship/) at [Sandia National Labs](https://www.sandia.gov/).
+I am a computational and applied mathematician and current [S. Scott Collis Fellow in Data Science](https://www.sandia.gov/careers/career-possibilities/students-and-postdocs/fellowships/data-science-fellowship/) at [Sandia National Labs](https://www.sandia.gov/).
 I recently completed my PhD in the
 [Department of Computational Applied Mathematics and Operations Research](https://cmor.rice.edu/) (CMOR)
 (formerly Computational and Applied Mathematics (CAAM)) at 
-[Rice University](https://www.rice.edu/) in Houston, TX, 
-and will soon be joining [Sandia National Laboratories](https://www.sandia.gov/) as the
-[S. Scott Collis Fellow in Data Science](https://www.sandia.gov/careers/career-possibilities/students-and-postdocs/fellowships/data-science-fellowship/). 
+[Rice University](https://www.rice.edu/) in Houston, TX.
 My PhD research was advised by Prof. [Matthias Heinkenschloss](https://www.caam.rice.edu/~heinken/)
 and focused on integrating neural network-based reduced-order models with domain decomposition. 
 While a graduate student, I was a [National Defense Science and Engineering Graduate (NDSEG) Fellow](https://ndseg.org/)
@@ -17,7 +15,7 @@ I also maintain a collaboration with [Lawrence Livermore National Laboratory (LL
 Here is my [CV](ad_cv.pdf).
 
 ### Contact Info 
-- **Email**: and5@rice.edu
+- **Email**: andiaz@sandia.gov
 - **LinkedIn**: [www.linkedin.com/in/alejandro-diaz-855152226](https://www.linkedin.com/in/alejandro-diaz-855152226/)
 
 ## Education 
@@ -30,7 +28,6 @@ Here is my [CV](ad_cv.pdf).
 - Surrogate modeling
 - Dimension reduction
 - Scientific machine learning
-- Scientific computing
 
 ## Research and Work Experience
 - [**S. Scott Collis Fellow in Data Science**](https://www.sandia.gov/careers/career-possibilities/students-and-postdocs/fellowships/data-science-fellowship/) - [Sandia National Laboratories](https://www.sandia.gov/), July 2024-present
