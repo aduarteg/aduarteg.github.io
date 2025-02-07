@@ -29,6 +29,11 @@ The need to solve nonlinear systems of Partial Differential Equations (PDEs) is 
 <img src="figs/PETSCproject.png" alt="PETSC" width="400"/>
 - Skills: C/C++, Parallel Computing (MPI, GPU), MATLAB, Version control (git), Linear Algebra.
 
+### Swirl stabilized combustion of carbon-free fuels
+Combustion-based systems continue to play a crucial role in the global generation of electricity. As economies transition toward decarbonization, power generation using carbon-free fuels, such as hydrogen and ammonia, is expected to be a key component. However, the properties of these fuels and their potential impact on the production of other pollutants have not been fully explored in the relevant operational regimes. In this project, we conducted preliminary Large Eddy Simulations (LES) of the flow within a Double Annular Counter-Rotating Swirler (DACRS) to support a research proposal aimed at investigating the use of carbon-free fuels. [Learn more](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2301485&HistoricalAwards=false).
+<img src="figs/swirlerProject.png" alt="swirler" width="400"/>
+- Skills: Computer Aided Design (CAD), Meshing, Computational Fluid Dynamics (CFD), Data Visualization.
+
 ### Developing Plasma Kinetics Mechanisms for Combustion Applications 
 Plasma discharges have been suggested as a promising technique to improve combustion stability, owing to its capability to produce new active species and modifying the oxidation pathways of fuels considerably. This has required the reexamination of traditional chemical kinetics mechanisms, requiring considerable efforts in the development and validation of new plasma kinetics mechanisms. Moreover, for multi-dimensional simulations, new techniques are required to reduce the size of these novel mechanisms. In this project, we developed new plasma mechanisms for the ignition of fuels such as ethylene, methane, and iso-octane. Additionally, we developed novel approaches to reduce the size of these mechanisms using advanced techniques such as graph-based methods and machine learning. [Learn more](https://doi.org/10.1016/j.combustflame.2023.113252).
 <img src="figs/kineticsProject.png" alt="kinetics" width="400"/>
